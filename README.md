@@ -1,2 +1,2 @@
-mvn compile
-mvn exec:java -Dexec.mainClass="Main"
+./mvnw compile
+./mvnw exec:java -Dexec.mainClass="Main"
