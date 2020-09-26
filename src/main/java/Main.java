@@ -12,6 +12,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         Bigram bigram = null;
         String input;
+        System.out.println("\n\n\n\n\n");
         do {
             System.out.print("\nEnter Command (h - list of commands): ");
             input = sc.nextLine();
